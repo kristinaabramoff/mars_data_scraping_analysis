@@ -28,6 +28,8 @@ This part of the project focused on automating the process of scraping the lates
 - **Data Structuring**: Organized the results into a list of dictionaries, making the data easy to analyze and work with in future applications.
 - **Optional Export**: Enabled easy sharing by exporting the data to JSON, showcasing versatility and preparedness for collaborative work.
 
+![examplecode_scraping](https://github.com/user-attachments/assets/04749b97-b727-4bcb-b959-8cd7336f8194)
+
 ## Part 2: Scraping and Analyzing Mars Weather Data
 
 In the second part, I focused on extracting, organizing, and analyzing Mars weather data to uncover important insights.
@@ -41,6 +43,9 @@ In the second part, I focused on extracting, organizing, and analyzing Mars weat
 - Analyzed average monthly minimum temperatures and atmospheric pressure across Mars.
 - Created bar charts to visualize and communicate these key insights.
 - Estimated the number of terrestrial days in a Martian year, demonstrating an understanding of planetary science and data-driven estimation.
+
+- 
+![examplecode_analysis](https://github.com/user-attachments/assets/7494d577-4999-4fb5-8a97-1871b7d3a807)
 
 ##  Skills Demonstrated
 - Web Scraping: Automated data extraction using Splinter and Beautiful Soup.
